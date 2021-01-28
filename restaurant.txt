@@ -1,0 +1,15 @@
+### attributes and values for the restaurant problem
+
+Alternate Nearby : Yes, No
+Has Bar : Yes, No
+Friday/Saturday : Yes, No
+Hungry : Yes, No
+How Crowded : None, Some, Full
+Price : $, $$, $$$
+Raining : Yes, No
+Reservations : Yes, No
+Type : French, Thai, Burger, Italian
+Waiting time : 0-10, 10-30, 30-60, >60
+Will wait : Yes, No
+
+
